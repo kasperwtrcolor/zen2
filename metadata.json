@@ -1,0 +1,7 @@
+{
+  "name": "polyBOT Trading Terminal",
+  "description": "Ultra-efficient HFT trading bot for Polymarket. High-precision alpha engine focused on Bitcoin prediction markets with a minimal, high-contrast terminal UI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
